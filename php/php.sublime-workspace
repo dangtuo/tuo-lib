@@ -1,0 +1,308 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"mysql_f",
+				"mysql_fetch_assoc"
+			],
+			[
+				"co",
+				"conn"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"ary",
+				"ary1"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"i",
+				"iSpan"
+			],
+			[
+				"add",
+				"addClass  (function)"
+			],
+			[
+				"chil",
+				"children  (function)"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"da",
+				"dashed  (value)"
+			],
+			[
+				"border",
+				"border-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"selected_items":
+		[
+			[
+				"Zen Coding: ",
+				"Zen Coding: Select next item"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 534.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/andy/站点/php/005-form.php",
+		"/Users/andy/站点/php/004-mysql.php",
+		"/Users/andy/站点/php/mysql",
+		"/Users/andy/站点/php/006-list.php",
+		"/Users/andy/站点/php/004-mysql",
+		"/Users/andy/站点/php/002-function.php",
+		"/Users/andy/站点/php/php学习笔记",
+		"/Users/andy/站点/php/test.php",
+		"/Users/andy/站点/php/001-data.php",
+		"/Users/andy/站点/php/003-array.php",
+		"/Users/andy/站点/php/002-function",
+		"/Users/andy/站点/php/php.sublime-workspace",
+		"/Users/andy/站点/php/001",
+		"/Users/andy/站点/site1/Yourphp/Tpl/Home/Default/Index_index.html",
+		"/Users/andy/站点/site1/Yourphp/Tpl/Home/Default/Public/js/common.js",
+		"/Users/andy/站点/site1/Yourphp/Tpl/Home/Default/Slide_2.html",
+		"/Users/andy/站点/site1/Yourphp/Tpl/Home/Default/layout.html",
+		"/Users/andy/站点/site1/Yourphp/Tpl/Home/Default/Home_header.html",
+		"/Users/andy/站点/site1/Yourphp/Tpl/Home/Default/Article_show.html",
+		"/Users/andy/站点/site1/Yourphp/Tpl/Home/Default/Article_list.html",
+		"/Users/andy/站点/site1/Yourphp/Tpl/Home/Default/Page_index.html",
+		"/Users/andy/站点/site1/Yourphp/Tpl/Home/Default/Public/css/style.css",
+		"/Users/andy/站点/site1/Yourphp/Tpl/Home/Default/Home_footer.html",
+		"/Users/andy/站点/site1/Yourphp/Tpl/Home/Default/passing.sublime-project",
+		"/Users/andy/站点/site1/Yourphp/Tpl/Home/Default/passing.sublime-workspace",
+		"/Users/andy/站点/site1/Yourphp/Tpl/Home/Default/preview.jpg",
+		"/Users/andy/Documents/aa.html",
+		"/Users/andy/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/andy/Library/Application Support/Sublime Text 2/Packages/ZenCoding/zen-coding.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" $",
+			"'));",
+			"非数组，也非NULL，返回1",
+			"hei",
+			"这个变量已经声明了",
+			"console",
+			"con",
+			"console",
+			"html",
+			")\n",
+			"');\n",
+			"’name’",
+			";}",
+			";}\n",
+			"div",
+			"li",
+			"class",
+			"body",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"arti",
+				"Article_show.html"
+			],
+			[
+				"page",
+				"Page_index.html"
+			],
+			[
+				"div",
+				"div"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}

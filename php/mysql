@@ -1,0 +1,31 @@
+/Applications/MAMP/Library/bin/mysql -u root -p
+
+--show databases;
+
+--show tables;
+
+--
+create table stu(
+id int,
+sname varchar(20),
+yy varchar(10)
+)engine myisam charset utf8;
+
+--
+insert into stu
+values
+(
+1,'liming','12312312'
+)
+
+转义字符串：addslashes();
+
+
+
+
+
+
+
+
+
+

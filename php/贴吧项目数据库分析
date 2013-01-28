@@ -1,0 +1,49 @@
+表：
+--帖子表
+--恢复表
+
+
+字段分析：
+》》帖子表（thread）
+--id      （tid 主键）
+--用户名    （username）
+--标题     （title）
+--内容     （content）
+--发布时间  （pubtime)
+
+
+》》回复表(reply)
+--id       (rid)
+--回复人    
+--内容      (content)
+--回复时间   (reptime)
+--被回贴id   (tid)
+--
+--
+--
+
+
+》》建库建表语句
+create database tieba charset utf8;
+use tieba;
+create table thread(
+tid int not null auto_increment primary key,
+username varchar(20) not null default '',
+title varchar(30) not null default '',
+content text,
+pubtime int unsigned not null default 0
+)engine myisam charset utf8;
+
+create table reply(
+ rid int not null auto_increment primary key,
+ tid int not null default 0,
+ username varchar(20) not null default '',
+ content text,
+ retime int unsigned not null default 0
+)engine myisam charset utf8;
+	
+》》注释 》》
+主键：不重复，用于区分每一行
+
+
+
